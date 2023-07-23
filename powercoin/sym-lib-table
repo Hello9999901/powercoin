@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "bq5105xb_qfn-ti")(type "KiCad")(uri "${KIPRJMOD}/symbols/bq5105xb_qfn-ti.kicad_sym")(options "")(descr ""))
+)
